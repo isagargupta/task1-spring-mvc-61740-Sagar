@@ -1,12 +1,20 @@
 # Task 1 - Spring MVC Application
 
+Name:  Sagar Gupta
+Student Id: 61740
+
+<img width="1451" height="804" alt="Screenshot 2026-01-07 at 08 33 13" src="https://github.com/user-attachments/assets/e2523856-e809-4044-94db-d30254431b24" />
+
 ## Project Description
 
 This is a Spring Boot MVC application created as part of the Spring Framework course at Vistula University. The application demonstrates basic Spring MVC concepts including:
 - Creating a Spring Boot project from scratch
 - Implementing a Spring Controller
 - Using `@ResponseBody` annotation for direct response
-- Using Thymeleaf templates for view rendering
+- Using Thymeleaf templ
+
+
+ates for view rendering
 - Following the MVC (Model-View-Controller) design pattern
 
 ## Technologies Used
